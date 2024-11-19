@@ -38,14 +38,10 @@
     "compatible_versions": [
       "v5.9.0"
     ],
-    "cosmos_sdk_version": "sei-cosmos v0.3.37",
     "consensus": {
       "type": "sei-tendermint",
       "version": "v0.3.8"
     },
-    "cosmwasm_version": "sei-wasmd v0.2.4",
-    "cosmwasm_enabled": true,
-    "cosmwasm_path": "$HOME/.sei/wasm",
     "genesis": {
       "genesis_url": "https://raw.githubusercontent.com/sei-protocol/testnet/main/pacific-1/genesis.json"
     },
@@ -56,10 +52,6 @@
         "compatible_versions": [
           "3.0.8"
         ],
-        "cosmos_sdk_version": "v0.45.10",
-        "cosmwasm_version": "v0.27.0",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v3.0.9",
         "sdk": {
           "type": "cosmos",
@@ -83,10 +75,6 @@
         ],
         "proposal": 24,
         "height": 25259000,
-        "cosmos_sdk_version": "v0.45.10",
-        "cosmwasm_version": "v0.27.0",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v3.1.1",
         "sdk": {
           "type": "cosmos",
@@ -110,10 +98,6 @@
         ],
         "proposal": 32,
         "height": 29772820,
-        "cosmos_sdk_version": "v0.45.10",
-        "cosmwasm_version": "v0.27.0",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v3.2.1",
         "sdk": {
           "type": "cosmos",
@@ -137,10 +121,6 @@
         ],
         "proposal": 42,
         "height": 34078260,
-        "cosmos_sdk_version": "v0.45.10",
-        "cosmwasm_version": "v0.27.0",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v3.3.0",
         "sdk": {
           "type": "cosmos",
@@ -165,14 +145,10 @@
           "v3.3.3",
           "v3.3.4"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.2.63",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.2.28"
         },
-        "cosmwasm_version": "sei-wasmd v0.0.2",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v3.5.0",
         "sdk": {
           "type": "cosmos",
@@ -197,14 +173,10 @@
           "v3.5.0",
           "V3.5.1"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.2.63",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.2.35"
         },
-        "cosmwasm_version": "sei-wasmd v0.0.4",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v3.6.1",
         "sdk": {
           "type": "cosmos",
@@ -230,14 +202,10 @@
         "compatible_versions": [
           "v3.6.1"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.2.72",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.2.37"
         },
-        "cosmwasm_version": "sei-wasmd v0.0.4",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v3.7.0",
         "sdk": {
           "type": "cosmos",
@@ -263,14 +231,10 @@
         "compatible_versions": [
           "v3.7.0"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.2.74",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.2.37"
         },
-        "cosmwasm_version": "sei-wasmd v0.0.4",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v3.8.0",
         "sdk": {
           "type": "cosmos",
@@ -297,14 +261,10 @@
           "v3.8.0",
           "v3.8.2"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.2.77",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.2.39"
         },
-        "cosmwasm_version": "sei-wasmd v0.0.8",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v3.9.0",
         "sdk": {
           "type": "cosmos",
@@ -330,14 +290,10 @@
         "compatible_versions": [
           "v5.5.2"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.2.83",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.2.40"
         },
-        "cosmwasm_version": "sei-wasmd v0.1.1",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v5.5.2",
         "sdk": {
           "type": "cosmos",
@@ -363,14 +319,10 @@
         "compatible_versions": [
           "v5.5.2"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.3.13",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.3.3"
         },
-        "cosmwasm_version": "sei-wasmd v0.1.5",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v5.5.5",
         "sdk": {
           "type": "cosmos",
@@ -396,14 +348,10 @@
         "compatible_versions": [
           "v5.5.5"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.3.19",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.3.3"
         },
-        "cosmwasm_version": "sei-wasmd v0.1.5",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v5.6.2",
         "sdk": {
           "type": "cosmos",
@@ -429,14 +377,10 @@
         "compatible_versions": [
           "v5.6.2"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.3.24",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.3.4"
         },
-        "cosmwasm_version": "sei-wasmd v0.1.9",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "5.7.5",
         "sdk": {
           "type": "cosmos",
@@ -462,14 +406,10 @@
         "compatible_versions": [
           "v5.7.5"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.3.31",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.3.6"
         },
-        "cosmwasm_version": "sei-wasmd v0.2.3",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v5.8.0",
         "sdk": {
           "type": "cosmos",
@@ -495,14 +435,10 @@
         "compatible_versions": [
           "v5.8.0"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.3.35",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.3.8"
         },
-        "cosmwasm_version": "sei-wasmd v0.2.4",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "v5.9.0",
         "sdk": {
           "type": "cosmos",
@@ -528,14 +464,10 @@
         "compatible_versions": [
           "v5.9.0"
         ],
-        "cosmos_sdk_version": "sei-cosmos v0.3.37",
         "consensus": {
           "type": "sei-tendermint",
           "version": "v0.3.8"
         },
-        "cosmwasm_version": "sei-wasmd v0.2.4",
-        "cosmwasm_enabled": true,
-        "cosmwasm_path": "$HOME/.sei/wasm",
         "next_version_name": "",
         "sdk": {
           "type": "cosmos",

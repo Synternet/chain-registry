@@ -35,8 +35,6 @@
     "compatible_versions": [
       "v1"
     ],
-    "cosmos_sdk_version": "v0.46.7",
-    "cosmwasm_enabled": false,
     "genesis": {
       "genesis_url": "https://raw.githubusercontent.com/alashooinc/ChainCNHO/master/mainnet/genesis.json"
     },
@@ -47,8 +45,6 @@
         "compatible_versions": [
           "v1"
         ],
-        "cosmos_sdk_version": "v0.46.7",
-        "cosmwasm_enabled": false,
         "sdk": {
           "type": "cosmos",
           "version": "v0.46.7"
